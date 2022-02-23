@@ -12,6 +12,10 @@ title: Andrew Nguyen | Full Stack Software Engineer
 author: Andrew Nguyen
 location: Melb, Aus
 
+domain: andrew-ai.github.io
+url: https://andrew-ai.github.io
+baseurl: /v2/
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
