@@ -12,9 +12,9 @@ title: Andrew Nguyen | Full Stack Software Engineer
 author: Andrew Nguyen
 location: Melb, Aus
 
-domain: andrew-ai.github.io
-url: https://andrew-ai.github.io
-baseurl: /v2/
+domain: andrewnnn.github.io
+url: https://andrewnnn.github.io
+# baseurl: /v2
 
 # --- List of links in the navigation bar --- #
 
@@ -47,7 +47,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "andrewnguyen.x@gmail.com"
-  github: andrew-ai
+  github: andrewnnn
   linkedin: andrewnguyen3
 #  medium: yourname
 #  reddit: yourname
